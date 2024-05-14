@@ -1,11 +1,13 @@
-Tesla Stock Prediction
+# Tesla Stock Prediction
 
 This repository contains a machine learning model for predicting Tesla stock prices. The model utilizes a dataset spanning from 2012 to 2018 and is capable of predicting stock prices for the next 10 years or the next 10 days, depending on the chosen parameters.
 Requirements
 
 To run the code, make sure you have the necessary dependencies installed. You can install them by running:
 
+```bash
 pip install -r requirements.txt
+```
 
 Dataset
 
@@ -13,16 +15,21 @@ The dataset used for training the model covers historical Tesla stock data from 
 Usage
 
     Clone the repository:
+    https://github.com/Xer0bit/TeslaStockPrediction
 
-    bash
-
-git clone https://github.com/Xer0bit/TeslaStockPrediction
-
-Install the required dependencies:
 
 bash
 
-pip install -r requirements.txt
+
+Install the required dependencies:
+
+
+bash
+
+    pip install -r requirements.txt
+
+
+
 
 Run the prediction script:
 
