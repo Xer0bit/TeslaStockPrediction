@@ -21,6 +21,7 @@ Usage
 
 
 Run the prediction script:
+   main.ipynb
 
 This will run the prediction model and provide the predicted Tesla stock prices for the next 10 years or 10 days.
 
