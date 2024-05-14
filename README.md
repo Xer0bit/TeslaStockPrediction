@@ -26,6 +26,8 @@ This will run the prediction model and provide the predicted Tesla stock prices 
 
 ## Model Details
 
+![% 5 years of Prediction](/5 years.png)
+
 The model utilizes machine learning techniques to forecast Tesla stock prices based on historical data. It employs algorithms such as regression, time series analysis, or deep learning, depending on the implementation.
 Contributing
 
