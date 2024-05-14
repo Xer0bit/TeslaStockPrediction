@@ -20,8 +20,7 @@ The dataset used for training the model covers historical Tesla stock data from 
 Usage
 
 
-Run the prediction script:
-   main.ipynb
+Run the prediction script: *main.ipynb*
 
 This will run the prediction model and provide the predicted Tesla stock prices for the next 10 years or 10 days.
 
