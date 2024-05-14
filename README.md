@@ -16,7 +16,7 @@ Usage
 
     bash
 
-git clone https://github.com/yourusername/tesla-stock-prediction.git
+git clone https://github.com/Xer0bit/TeslaStockPrediction
 
 Install the required dependencies:
 
